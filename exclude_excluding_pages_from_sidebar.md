@@ -1,0 +1,1 @@
+need to have files in the folders, otherwise sidebar.js breaks - i want the folders there for dev but not prod yet; so need sidebar.js updated. i want to work with sidebar.js so i need to push to prod - so use this trick to exclude files (as they are placeholders that exist privately but not publically)

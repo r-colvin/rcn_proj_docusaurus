@@ -1,0 +1,1 @@
+how to use submodules with docusaurus to split content, ownership and maintain git acl
